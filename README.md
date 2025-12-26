@@ -1,10 +1,10 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                               ║
-║                               
-║                                                                               ║
+║                            
+║                          Desarrollador de Software                            ║
 ║                    Garzooka - CYBERSECURITY SPECIALIST                
-║                    [ PENETRATION TESTER | DEV | HACKER ]                     ║
+║                    [ PENETRATION TESTER | DEV | HACKER ]                      ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
