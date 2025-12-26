@@ -173,7 +173,7 @@ PORT     STATE    SERVICE       VERSION
 |:-----------|:---------------|:----------|:--------------|
 | **🎭 Hacker Portfolio** | Terminal interactivo con estética Matrix y efectos CRT | [🌐 LIVE](https://carlos-junior-prieto-hermosa.github.io/carlos-hacker-portfolio/) | `HTML` `CSS` `JS` `Canvas` |
 | **📊                 ** | Sistema de análisis predictivo y detección de patrones | [💾 REPO](                     ) | `Python` `Statistics` `ML` |
-| **⚽ Betting Intelligence** | Bot de análisis estadístico con machine learning | [💾 REPO]([https://acortar.link/iOnSEW)) | `Python` `APIs` `Data
+| **⚽ Betting Intelligence** | Bot de análisis estadístico con machine learning | [💾 REPO]([https://acortar.link/iOnSEW](https://github.com/Carlos-Junior-Prieto-Hermosa/sportisbetting2026))) | `Python` `APIs` `Data
 | **🔐                 ** | Colección de herramientas de pentesting personalizadas | [💾 REPO](                       ) | `Python` `Bash` `Networking` |
 
 </div>
