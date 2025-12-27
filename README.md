@@ -11,13 +11,13 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=800&height=100&lines=root%40kali%3A~%23+whoami;Carlos+Junior+Prieto+Hermosa;Cybersecurity+Specialist+%7C+Full-Stack+Dev;Breaking+Systems%2C+Building+Solutions;Think+Like+a+Hacker%2C+Code+Like+a+Pro)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=800&height=100&lines=root%40kali%3A~%23+whoami;Garzooka-Hacking;Cybersecurity+Specialist+%7C+Full-Stack+Dev;Breaking+Systems%2C+Building+Solutions;Think+Like+a+Hacker%2C+Code+Like+a+Pro)
 
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/Garzooka)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://www.linkedin.com/in/Garzooka/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41&labelColor=000000)](https://carlos-junior-prieto-hermosa.github.io/carlos-hacker-portfolio/)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/Garzooka-Hacking)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://www.linkedin.com/in/Garzooka-Hacking/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41&labelColor=000000)](https://garzooka-hacking.github.io/carlos-hacker-portfolio/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Garzooka&color=00ff41&style=for-the-badge&label=INTRUSIONS)
+![Profile Views](https://komarev.com/ghpvc/?username=Garzooka-Hacking&color=00ff41&style=for-the-badge&label=INTRUSIONS)
 
 </div>
 
@@ -26,7 +26,7 @@
 ## 🎭 `$ cat /etc/shadow/identity.txt`
 
 ```bash
-┌──(carlos㉿mainframe)-[~/profile]
+┌──(garzooka㉿mainframe)-[~/profile]
 └─$ sudo ./whoami.sh
 
 [+] Initializing identity protocol...
@@ -34,9 +34,9 @@
 [✓] Access Granted
 
 ╭─────────────────────────────────────────────────╮
-│ NAME:     Carlos Junior Prieto Hermosa          │
+│ NAME:     Garzooka-Hacking                      │
 │ ROLE:     Cybersecurity Specialist              │
-│ ALIAS:    @Carlos-Junior-Prieto-Hermosa         │
+│ ALIAS:    @Garzooka-Hacking                     │
 │ LOCATION: LATAM | Peru                          │
 │ STATUS:   [ONLINE] - Hunting Vulnerabilities    │
 │ MINDSET:  Offensive Security + Clean Code       │
@@ -131,13 +131,13 @@ automation:
 
 ---
 
-## 📡 `$ nmap -sV -A github.com/Carlos-Junior-Prieto-Hermosa`
+## 📡 `$ nmap -sV -A github.com/Garzooka-Hacking`
 
 <div align="center">
 
 ```diff
 Starting Nmap 7.94 ( https://nmap.org )
-Nmap scan report for Carlos-Junior-Prieto-Hermosa
+Nmap scan report for Garzooka-Hacking
 
 PORT     STATE    SERVICE       VERSION
 22/tcp   open     ssh           GitHub Profile v2.0
@@ -151,10 +151,10 @@ PORT     STATE    SERVICE       VERSION
 + AVAILABILITY: Open for collaboration
 ```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Junior-Prieto-Hermosa&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41&border_color=00ff41"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Junior-Prieto-Hermosa&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&border_color=00ff41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Garzooka-Hacking&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41&border_color=00ff41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garzooka-Hacking&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&border_color=00ff41"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Junior-Prieto-Hermosa&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Garzooka-Hacking&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41" alt="GitHub Streak" />
 
 </div>
 
@@ -166,9 +166,9 @@ PORT     STATE    SERVICE       VERSION
 
 | 🚨 PROJECT | 📝 DESCRIPTION | 🔗 ACCESS | ⚡ TECH STACK |
 |:-----------|:---------------|:----------|:--------------|
-| **🎭 Hacker Portfolio** | Terminal interactivo con estética Matrix y efectos CRT | [🌐 LIVE](https://carlos-junior-prieto-hermosa.github.io/carlos-hacker-portfolio/) | `HTML` `CSS` `JS` `Canvas` |
+| **🎭 Hacker Portfolio** | Terminal interactivo con estética Matrix y efectos CRT | [🌐 LIVE](https://garzooka-hacking.github.io/carlos-hacker-portfolio/) | `HTML` `CSS` `JS` `Canvas` |
 | **📊                 ** | Sistema de análisis predictivo y detección de patrones | [💾 REPO](                  ) | `Python` `Statistics` `ML` |
-| **⚽ Betting Intelligence** | Bot de análisis estadístico con machine learning | [💾 REPO](https://github.com/Carlos-Junior-Prieto-Hermosa/sportisbetting2026) | `Python` `APIs` `Data Science` |
+| **⚽ Betting Intelligence** | Bot de análisis estadístico con machine learning | [💾 REPO](https://github.com/Garzooka-Hacking/sportisbetting2026) | `Python` `APIs` `Data Science` |
 | **🔐                ** | Colección de herramientas de pentesting personalizadas | [💾 REPO](                  ) | `Python` `Bash` `Networking` |
 
 </div>
@@ -178,7 +178,7 @@ PORT     STATE    SERVICE       VERSION
 ## 🛡️ `$ sudo ./certifications.sh --list`
 
 ```console
-[carlos@mainframe ~]$ ./certifications.sh --list
+[garzooka@mainframe ~]$ ./certifications.sh --list
 
 ╔══════════════════════════════════════════════════════════════╗
 ║              SECURITY CERTIFICATIONS & TRAINING              ║
@@ -200,16 +200,16 @@ PORT     STATE    SERVICE       VERSION
 
 ---
 
-## 💻 `$ htop -u carlos`
+## 💻 `$ htop -u garzooka`
 
 <div align="center">
 
 ```bash
   PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
- 1337 carlos    20   0  999.9g  99.9g  99.9g R  99.9  99.9 999:99.99 coding
- 1338 carlos    20   0  999.9g  99.9g  99.9g R  99.9  99.9 999:99.99 pentesting
- 1339 carlos    20   0  999.9g  99.9g  99.9g R  99.9  99.9 999:99.99 learning
- 1340 carlos    20   0  999.9g  99.9g  99.9g S  99.9  99.9 999:99.99 coffee.exe
+ 1337 garzooka  20   0  999.9g  99.9g  99.9g R  99.9  99.9 999:99.99 coding
+ 1338 garzooka  20   0  999.9g  99.9g  99.9g R  99.9  99.9 999:99.99 pentesting
+ 1339 garzooka  20   0  999.9g  99.9g  99.9g R  99.9  99.9 999:99.99 learning
+ 1340 garzooka  20   0  999.9g  99.9g  99.9g S  99.9  99.9 999:99.99 coffee.exe
 ```
 
 **TECH STACK LOADED IN MEMORY:**
@@ -237,7 +237,7 @@ PORT     STATE    SERVICE       VERSION
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Carlos-Junior-Prieto-Hermosa&theme=github-compact&hide_border=true&bg_color=000000&color=00ff41&line=00ff41&point=00f3ff&area=true&area_color=00ff41)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Garzooka-Hacking&theme=github-compact&hide_border=true&bg_color=000000&color=00ff41&line=00ff41&point=00f3ff&area=true&area_color=00ff41)
 
 </div>
 
@@ -247,7 +247,7 @@ PORT     STATE    SERVICE       VERSION
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Carlos-Junior-Prieto-Hermosa&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Garzooka-Hacking&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues)
 
 </div>
 
@@ -272,8 +272,8 @@ Connection established. Encrypted channel ready.
 ```
 
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:carlos.prieto@example.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/carlos-junior-prieto-hermosa/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)](https://carlos-junior-prieto-hermosa.github.io/carlos-hacker-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/Garzooka-Hacking/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)](https://garzooka-hacking.github.io/carlos-hacker-portfolio/)
 [![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=00FF41)](https://twitter.com/yourhandle)
 
 </div>
@@ -296,12 +296,12 @@ Connection established. Encrypted channel ready.
 
 ### 💀 **EAT · SLEEP · HACK · CODE · REPEAT** 💀
 
-![Snake animation](https://raw.githubusercontent.com/Carlos-Junior-Prieto-Hermosa/Carlos-Junior-Prieto-Hermosa/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Garzooka-Hacking/Garzooka-Hacking/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 <sub>**⚠️ DISCLAIMER:** All security research and penetration testing activities are conducted ethically and with proper authorization. I am a **White Hat** security professional committed to making the digital world safer.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=root@carlos:~%23%20exit&fontSize=20&fontColor=00ff41&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=root@garzooka:~%23%20exit&fontSize=20&fontColor=00ff41&animation=twinkling" />
 
 </div>
