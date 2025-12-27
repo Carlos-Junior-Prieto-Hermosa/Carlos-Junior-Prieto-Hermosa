@@ -1,12 +1,12 @@
 ```ascii
-                                ╔═══════════════════════════════════════════════════════════════════════════════╗
-                                ║                                                                               ║
-                                ║                                                                               ║    
-                                ║                          Desarrollador de Software                            ║
-                                ║                    Garzooka - CYBERSECURITY SPECIALIST                        ║
-                                ║                    [ PENETRATION TESTER | DEV | HACKER ]                      ║
-                                ║                                                                               ║
-                                ╚═══════════════════════════════════════════════════════════════════════════════╝
+                             ╔═══════════════════════════════════════════════════════════════════════════════╗
+                             ║                                                                               ║
+                             ║                                                                               ║    
+                             ║                        Desarrollador de Software                              ║
+                             ║                  Garzooka - CYBERSECURITY SPECIALIST                          ║
+                             ║                    PENETRATION TESTER | DEV | HACKER ]                        ║
+                             ║                                                                               ║
+                             ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
